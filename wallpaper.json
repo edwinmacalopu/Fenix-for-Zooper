@@ -1,22 +1,99 @@
 {
   "wallpapers": [
+    
     {
-      "author": "Tom Wellington",
-      "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-      "name": "East Branch",
-      "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2016.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2016.jpg"
+    },
+    
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2015.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2015.jpg"
     },
     {
-      "author": "Tom Wellington",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-      "name": "Heads Up",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2014.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2014.jpg"
     },
     {
-      "author": "Tom Wellington",
-      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-      "name":" Flamingos",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2013.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2013.jpg"
+    },
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2012.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2012.jpg"
+    },
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2011.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2011.jpg"
+    },
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2010.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2010.jpg"
+    },
+    
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%208.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%208.jpg"
+    },
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%207.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%207.jpg"
+    },
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%206.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%206.jpg"
+    },
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%205.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%205.jpg"
+    },
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%204.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%204.jpg"
+    },
+    
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%203.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%203.jpg"
+    },
+    {
+      "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%202.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%202.jpg"
+    
+    },
+    {
+      "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%201.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%201.jpg"
     }
   ]
 }
