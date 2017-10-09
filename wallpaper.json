@@ -1,6 +1,11 @@
 {
   "wallpapers": [
-    
+    {
+       "author": "sergio ventura",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2019.jpg",
+      "name":" fenix",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2019.jpg"
+    },
     {
        "author": "sergio ventura",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/Fenix-for-Zooper/master/Wall%2018.jpg",
